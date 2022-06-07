@@ -1,4 +1,7 @@
-const removeFromArray = function() {
+const removeFromArray = function(array) {
+
+    let outputArray;
+
 
 };
 
